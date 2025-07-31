@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1751596993 source:c:\users\ferru\desktop\utn 2025 - 1c apps\programacion 1\proyectos\tppractica\enfrendados\main.cpp
+	<ctime>
+	<cstdlib>
+	"menu.h"
+
+1751597331 source:c:\users\ferru\desktop\utn 2025 - 1c apps\programacion 1\proyectos\tppractica\enfrendados\menu.cpp
+	<iostream>
+	<string>
+	"juego.h"
+	"estadistica.h"
+	"utilidades.h"
+
+1751596453 source:c:\users\ferru\desktop\utn 2025 - 1c apps\programacion 1\proyectos\tppractica\enfrendados\utilidades.cpp
+	<iostream>
+	"utilidades.h"
+
+1751596370 source:c:\users\ferru\desktop\utn 2025 - 1c apps\programacion 1\proyectos\tppractica\enfrendados\dados.cpp
+	<iostream>
+	<cstdlib>
+	"dados.h"
+
+1751596370 c:\users\ferru\desktop\utn 2025 - 1c apps\programacion 1\proyectos\tppractica\enfrendados\dados.h
+
+1751596370 source:c:\users\ferru\desktop\utn 2025 - 1c apps\programacion 1\proyectos\tppractica\enfrendados\juego.cpp
+	<iostream>
+	"juego.h"
+	"dados.h"
+	"utilidades.h"
+
+1751596370 c:\users\ferru\desktop\utn 2025 - 1c apps\programacion 1\proyectos\tppractica\enfrendados\juego.h
+	<string>
+
+1751596453 c:\users\ferru\desktop\utn 2025 - 1c apps\programacion 1\proyectos\tppractica\enfrendados\utilidades.h
+	<string>
+
+1751596370 c:\users\ferru\desktop\utn 2025 - 1c apps\programacion 1\proyectos\tppractica\enfrendados\menu.h
+
+1751597328 source:c:\users\ferru\desktop\utn 2025 - 1c apps\programacion 1\proyectos\tppractica\enfrendados\estadistica.cpp
+	<iostream>
+	"estadistica.h"
+	"utilidades.h"
+
+1751596370 c:\users\ferru\desktop\utn 2025 - 1c apps\programacion 1\proyectos\tppractica\enfrendados\estadistica.h
+	<string>
+
